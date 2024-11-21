@@ -1,0 +1,20 @@
+<OpenEducationalResources>
+<Resource>
+<Title>Introduction to Python</Title>
+<Subject>Programming</Subject>
+<Description>A beginner's guide to Python programming.</Description>
+<Creator>OpenAI</Creator>
+<License>CC BY-SA</License>
+<Language>English</Language>
+<Identifier>http://example.com/python-intro</Identifier>
+</Resource>
+<Resource>
+<Title>Data Science with R</Title>
+<Subject>Data Science</Subject>
+<Description>Learn data science techniques using R.</Description>
+<Creator>Data Science Academy</Creator>
+<License>CC BY-NC</License>
+<Language>English</Language>
+<Identifier>http://example.com/data-science-r</Identifier>
+</Resource>
+</OpenEducationalResources>
